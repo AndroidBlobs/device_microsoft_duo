@@ -1,0 +1,4 @@
+require version-baseband=1.0.c11-00127-SM8150_GEN_PACK-1.309034.1
+require version-modem=2020-08-2121:34:19
+require version-trustzone=TZ.XF.5.2-00170
+require version-vendor=1598383866
